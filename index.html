@@ -14,7 +14,7 @@
     </script>
     <script>
       var i = 0;
-      var timeout = 36 * 1000; // 36 seconds
+      var timeout = 37 * 1000; // 36 seconds
 
       function next() {
         site_to_return = sites[i];
@@ -25,12 +25,8 @@
 
       function switch_frame() {
         frame = document.getElementById('content_frame');
-        try {
-          frame.src = next();
-          setTimeout('switch_frame()', timeout);
-        } catch(e) {
-          switch_frame();
-        }
+        frame.src = next();
+        setTimeout('switch_frame()', timeout);
       }
 
       setTimeout('switch_frame()', 2000);
