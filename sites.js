@@ -4,5 +4,6 @@ var sites = [
   'http://www.time.is',
   'http://twitter.com/#!/rails',
   'http://www.flickr.com/search/show/?q=demotivational',
-  'http://twitter.com/#search?q=crowdint'
+  'http://twitter.com/#search?q=crowdint',
+  'https://rubygems.org/gems/rails3-jquery-autocomplete/stats'
 ];
