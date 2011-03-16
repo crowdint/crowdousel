@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <title>Crowdousel</title>
+    <style>
+      iframe {
+        margin: 0px;
+        border: none;
+        width: 100%;
+        height: 97%;
+      }
+    </style>
+
+    <script src="./sites.js">
+    </script>
+    <script>
+      var i = 0;
+      var timeout = 1000 * 3600 * 5; // 5 minutes
+
+      function next() {
+        site_to_return = sites[i];
+        i++;
+        i = ( i == sites.length ? 0 : i )
+        return site_to_return;
+      }
+
+      function switch_frame() {
+        frame = document.getElementById('content_frame');
+        frame.src = next();
+        setTimeout('switch_frame()', timeout);
+      }
+
+      setTimeout('switch_frame()', 2000);
+    </script>
+  </head>
+  <body>
+    <iframe id="content_frame" />
+  </body>
+</html>
