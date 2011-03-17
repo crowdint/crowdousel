@@ -8,5 +8,6 @@ var sites = [
   'http://192.168.1.120:3000',
   'http://www.angelguardian.com.mx',
   'http://mediotiempo.com',
-  'http://www.macrumors.com'
+  'http://www.macrumors.com',
+  'http://www.google.com/search?q=crowdint&sa=X&tbs=mbl:1&tbas=0'
 ];
