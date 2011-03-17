@@ -1,6 +1,5 @@
 var sites = [
   'http://www.crowdint.com',
-  'http://www.monitter.com/?crowdint', 
   'http://search.twitter.com/search?q=ruby+rails',
   'http://www.time.is',
   'http://www.flickr.com/search/show/?q=demotivational&s=rec',
@@ -10,5 +9,7 @@ var sites = [
   'http://www.angelguardian.com.mx',
   'http://mediotiempo.com',
   'http://www.macrumors.com',
-  'http://www.google.com/search?q=crowdint&sa=X&tbs=mbl:1&tbas=0'
+  'http://www.google.com/search?q=crowdint&sa=X&tbs=mbl:1&tbas=0',
+  'http://feeds.boston.com/boston/bigpicture/index',
+  'http://www.flickr.com/search/show/?q=motivational&s=rec'
 ];
