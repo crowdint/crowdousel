@@ -11,5 +11,6 @@ var sites = [
   'http://www.macrumors.com',
   'http://www.google.com/search?q=crowdint&sa=X&tbs=mbl:1&tbas=0',
   'http://feeds.boston.com/boston/bigpicture/index',
-  'http://www.flickr.com/search/show/?q=motivational&s=rec'
+  'http://www.flickr.com/search/show/?q=motivational&s=rec',
+  'http://29.media.tumblr.com/tumblr_lhjnf4angR1qe2axoo1_500.gif'
 ];
