@@ -9,5 +9,6 @@ var sites = [
   'http://mediotiempo.com',
   'http://www.macrumors.com',
   'http://www.flickr.com/search/show/?q=motivational&s=rec',
-  'http://29.media.tumblr.com/tumblr_lhjnf4angR1qe2axoo1_500.gif'
+  'http://29.media.tumblr.com/tumblr_lhjnf4angR1qe2axoo1_500.gif',
+  'http://news.ycombinator.com/'
 ];
