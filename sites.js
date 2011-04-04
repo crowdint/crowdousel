@@ -14,5 +14,6 @@ var sites = [
   'http://www.macrumors.com',
   'http://www.flickr.com/search/show/?q=motivational&s=rec',
   'http://news.ycombinator.com/',
+  'http://search.twitter.com/search?q=magmarails',
   'http://www.flickr.com/search/show/?q=white+sands&ct=0&mt=photos&adv=1'
 ];
