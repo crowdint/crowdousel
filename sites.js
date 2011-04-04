@@ -1,5 +1,7 @@
 var sites = [
   'http://www.crowdint.com',
+  'http://ci.crowdint.com',
+  'http://www.magmarails.com',
   'http://www.flickr.com/search/show/?q=granada&mt=photos&adv=1',
   'http://search.twitter.com/search?q=ruby+rails',
   'http://www.time.is',
