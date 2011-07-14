@@ -7,12 +7,9 @@ var sites = [
   'http://www.flickr.com/photos/63319310@N04/show/',
   'http://www.flickr.com/search/show/?q=motivational+poster',
   'https://rubygems.org/gems/rails3-jquery-autocomplete/stats',
-  'http://www.angelguardian.com.mx',
-  'http://mediotiempo.com',
+//  'http://www.angelguardian.com.mx',
+//  'http://mediotiempo.com',
   'http://www.macrumors.com',
   'http://www.flickr.com/search/show/?q=demotivational+poster',
-  'http://www.flickr.com/search/show/?q=white+sands',
-  'http://clutchapp.com/',
-  'http://kanbanpad.com/'
 ];
 
