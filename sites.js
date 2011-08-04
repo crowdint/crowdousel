@@ -4,7 +4,7 @@ var sites = [
   'http://ci.crowdint.com',
   'https://rubygems.org/gems/rails3-jquery-autocomplete/stats',
   'http://time.is',
-//  'http://remember-me.heroku.com',
+  'http://remember-me.heroku.com',
   'http://www.flickr.com/photos/63319310@N04/show', // Most recent photos
   'http://www.flickr.com/search/show/?q=motivational+poster',
   'http://www.flickr.com/photos/63319310@N04/sets/72157627157024979/show', // Photoshopista
