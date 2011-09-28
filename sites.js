@@ -5,6 +5,7 @@ var sites = [
   'https://rubygems.org/gems/rails3-jquery-autocomplete/stats',
   'http://time.is',
   'http://remember-me.heroku.com',
+  'https://picasaweb.google.com/108372401803573113438/Wallpapers#slideshow/5645600912256954290',
   'http://www.flickr.com/photos/63319310@N04/show', // Most recent photos
   'http://www.flickr.com/search/show/?q=motivational+poster',
   'http://www.flickr.com/photos/63319310@N04/sets/72157627157024979/show', // Photoshopista
@@ -14,4 +15,3 @@ var sites = [
 //  'http://mediotiempo.com',
 //  'http://www.macrumors.com'
 ];
-
